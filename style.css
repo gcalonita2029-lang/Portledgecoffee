@@ -1,0 +1,128 @@
+body {
+    /* background-color: burlywood; */
+    background-image: url(https://i.pinimg.com/1200x/3e/c5/66/3ec56607cf2863aacaeeacd2fefc4aa3.jpg);
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+
+}
+
+.wraper {
+    /*Style the wraper*/
+    /* background-color: tan; */
+    min-height: 10rem;
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    /* background-color: rgb(7, 26, 63); */
+    min-height: 4rem;
+}
+
+header img {
+    height: 125px;
+
+}
+
+nav {
+    background-color: yellow;
+    min-height: 2rem;
+    text-align: center;
+}
+
+nav a {
+
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 2rem;
+}
+
+main {
+    /* background-color: deeppink; */
+    min-height: 12rem;
+    text-align: center;
+    padding: 2rem;
+
+}
+
+h1 {
+    font-size: 75px;
+    color: mistyrose;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* X offset, Y offset, Blur, color*/
+    text-shadow: 2px 2px 2px navy;
+}
+
+h2 {
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 2px 2px 2px navy;
+}
+
+main p {
+
+    font-size: 1.2rem;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 2px 2px 2px navy;
+    padding: 2rem;
+    line-height: 32px;
+}
+
+.map {
+    /* background-color: blanchedalmond; */
+    min-height: 1rem;
+    text-align: center;
+}
+
+
+nav,
+footer {
+    background-color: rgba(255, 192, 203, 0.621);
+    min-height: 3rem;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
+}
+
+.menuh1 {
+    font-size: 55px;
+
+
+}
+
+li img {
+    width: 45px;
+
+}
+
+.menuh2 {
+    font-size: 2rem;
+    text-shadow: #070c72ec;
+    color: palevioletred;
+    flex-wrap: wrap;
+
+}
+
+ul {
+    display: inline-block;
+     border: none;
+
+}
+
+.align-middle {
+    width: 200px;
+
+
+
+}
+
+
+/* .menuh3 */
